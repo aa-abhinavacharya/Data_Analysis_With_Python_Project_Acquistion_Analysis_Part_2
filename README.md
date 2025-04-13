@@ -28,9 +28,9 @@
 
 ## Problem Solving
 
-Python File with Questions for Data Analysis using Pandas :-[Data_Analysis_Questions](https://github.com/aa-abhinavacharya/Data_Analysis_With_Python_Project_1/blob/main/Acquisition_Project_Questions.ipynb)
+Python File with Questions for Data Analysis using Pandas :-[Data_Analysis_Questions](https://github.com/aa-abhinavacharya/Data_Analysis_With_Python_Project_Acquistion_Analysis_Part_2/blob/main/Final_Acquistion_Questions.ipynb)
 
-Python File with Solutions for Data Analysis using Pandas :-[Data_Analysis_Solutions](https://github.com/aa-abhinavacharya/Data_Analysis_With_Python_Project_1/blob/main/Acquistion_Project_Solutions.ipynb)
+Python File with Solutions for Data Analysis using Pandas :-[Data_Analysis_Solutions](https://github.com/aa-abhinavacharya/Data_Analysis_With_Python_Project_Acquistion_Analysis_Part_2/blob/main/Final_Acquistion_Solutions.ipynb)
 
 ## How the insights help us in decision making for acquistion
 
