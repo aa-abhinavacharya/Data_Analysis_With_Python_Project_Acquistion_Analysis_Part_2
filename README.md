@@ -8,23 +8,23 @@
 
 ### Objectives :- 
 
-1.Load data efficiently from multiple CSV files.
+1. Load data efficiently from multiple CSV files.
 
-2.Conduct exploratory analysis on large-scale datasets.
+2. Conduct exploratory analysis on large-scale datasets.
 
-3.Combine multiple DataFrames to create a comprehensive view.
+3. Combine multiple DataFrames to create a comprehensive view.
 
-4.Generate new columns to support deeper analytical insights.
+4. Generate new columns to support deeper analytical insights.
 
-5.Filter, sort, and aggregate data to identify and summarize critical information.
+5. Filter, sort, and aggregate data to identify and summarize critical information.
 
-6.Work with date and time fields to perform time series analysis.
+6. Work with date and time fields to perform time series analysis.
 
-7.Create visualizations to effectively communicate key findings.
+7. Create visualizations to effectively communicate key findings.
 
-8.Streamline and optimize the data import workflow.
+8. Streamline and optimize the data import workflow.
 
-9.Export summary tables tailored for stakeholder review.
+9. Export summary tables tailored for stakeholder review.
 
 ## Problem Solving
 
