@@ -38,25 +38,25 @@ Python File with Solutions for Data Analysis using Pandas :-[Data_Analysis_Solut
 
 1. Monthly Sales Trends :- Identify if overall sales are growing, declining, or seasonal. A steady upward trend may indicate healthy business momentum. It is useful to evaluate year-over-year growth and detect peak sales periods.
 
-2.Sales Focused on April 2016 and October 2017 :- Zooming into specific months helps detect spikes or drops in performance. 
+2. Sales Focused on April 2016 and October 2017 :- Zooming into specific months helps detect spikes or drops in performance. 
 
-3.Year-on-Year Comparison (2016 vs 2017) :- Determines whether the business is scaling over time. A positive change would support the acquisition case.
+3. Year-on-Year Comparison (2016 vs 2017) :- Determines whether the business is scaling over time. A positive change would support the acquisition case.
 
-4.Sales by Day of the Week :- Understand consumer behavior patterns .
+4. Sales by Day of the Week :- Understand consumer behavior patterns .
 
 #### Demographic Analysis 
 
-1.Sales by Age and Income Group :- Helps identify high-spending customer segments. Informs Cantargeted marketing or loyalty strategies post-acquisition.
+1. Sales by Age and Income Group :- Helps identify high-spending customer segments. Informs Cantargeted marketing or loyalty strategies post-acquisition.
 
-2.Average Household Sales by Age & Household Composition (HH_COMP_DESC) :- Reveals which demographic combinations (e.g., “older adults with no kids”) have the highest average spend.  Used to tailor promotions or product offerings to specific groups.
+2. Average Household Sales by Age & Household Composition (HH_COMP_DESC) :- Reveals which demographic combinations (e.g., “older adults with no kids”) have the highest average spend.  Used to tailor promotions or product offerings to specific groups.
 
-3.Transaction Matching with Demographics :- Ensures insights are based only on households where demographic info is available — leading to more accurate and actionable conclusions.
+3. Transaction Matching with Demographics :- Ensures insights are based only on households where demographic info is available — leading to more accurate and actionable conclusions.
 
 #### Product Demographics Analysis 
 
-1.Sales by Age Group and Product Department :- Helps in understanding which departments resonate with each age group. For example, younger customers spend more on snacks, while older ones on healthcare.
+1. Sales by Age Group and Product Department :- Helps in understanding which departments resonate with each age group. For example, younger customers spend more on snacks, while older ones on healthcare.
 
-2.Focus on Youngest Demographic :- Helps to discover what youngest customers are buying most — valuable for long-term customer acquisition and retention strategies.
+2. Focus on Youngest Demographic :- Helps to discover what youngest customers are buying most — valuable for long-term customer acquisition and retention strategies.
 
 ### Strategic Takeaways
 
